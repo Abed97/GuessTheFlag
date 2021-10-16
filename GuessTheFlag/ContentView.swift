@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  GuessTheFlag
+//  GuessTheFlag Game
 //
 //  Created by Abed Atassi on 2021-09-09.
 //
